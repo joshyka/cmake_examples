@@ -1,0 +1,3 @@
+D:/simple-project/build/CMakeFiles/app.dir
+D:/simple-project/build/CMakeFiles/edit_cache.dir
+D:/simple-project/build/CMakeFiles/rebuild_cache.dir

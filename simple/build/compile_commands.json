@@ -1,0 +1,7 @@
+[
+{
+  "directory": "D:/simple/build",
+  "command": "C:\\mingw-w64\\x86_64-8.1.0-posix-seh-rt_v6-rev0\\mingw64\\bin\\g++.exe   -g -o CMakeFiles\\app.dir\\sai.cpp.obj -c D:\\simple\\sai.cpp",
+  "file": "D:/simple/sai.cpp"
+}
+]
