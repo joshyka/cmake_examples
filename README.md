@@ -9,3 +9,4 @@ CMakelists.txt file can also include the path to gcc compilers for ease. <br />
 Select configurations before building an application. <br />
 Try to follow latest videos for any reference. <br />
 CMake: Quick Start command: This creates a hello world CMake project containing main.cpp, CMakeLists.txt, and a folder named build.
+Also install required extension packs in VS code as well for proper integrity.
