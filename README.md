@@ -8,5 +8,6 @@ Make use of build option in VS code to build files after creating 'build' direct
 CMakelists.txt file can also include the path to gcc compilers for ease. <br />
 Select configurations before building an application. <br />
 Try to follow latest videos for any reference. <br />
-CMake: Quick Start command: This creates a hello world CMake project containing main.cpp, CMakeLists.txt, and a folder named build.
-Also install required extension packs in VS code as well for proper integrity.
+CMake: Quick Start command: This creates a hello world CMake project containing main.cpp, CMakeLists.txt, and a folder named build. <br />
+Also install required extension packs in VS code as well for proper integrity. <br />
+To rebuild or cmake, once agai select gcc compiler and then build again
